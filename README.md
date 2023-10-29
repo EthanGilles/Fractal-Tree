@@ -5,6 +5,8 @@ The animation is quite fun because you can see the order the program processes e
 
 <img src="https://github.com/EthanGilles/Fractal-Tree/blob/main/Screenshots/rungif2.gif">
 
+<img src="https://github.com/EthanGilles/Fractal-Tree/blob/main/Screenshots/rungif3.gif">
+
 
 <h2>The Program</h2>
 
